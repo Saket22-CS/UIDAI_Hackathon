@@ -1079,10 +1079,10 @@ We follow PEP 8 guidelines with these tools:
 
 ### Contact
 
-- 📧 Email: your.email@example.com
-- 🐙 GitHub: [@yourusername](https://github.com/yourusername)
-- 💼 LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
-- 🌐 Website: [your-website.com](https://your-website.com)
+- 📧 Email: saketrishu64821@gmail.com
+- 🐙 GitHub: [@Saket22-CS](https://github.com/Saket22-CS)
+- 💼 LinkedIn: [Saket Chaudhary](https://www.linkedin.com/in/saket-chaudhary22/)
+- 🌐 Website: [saket-chaudhary.com](https://saket-chaudhary.netlify.app/)
 
 ---
 
